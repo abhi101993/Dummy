@@ -20,7 +20,7 @@ public String getMessage()
 @PostMapping("/hello")
 public String getMess()
 {
-	return "Hello";
+	return "Hi";
 }
 	
 	
